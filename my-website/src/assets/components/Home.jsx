@@ -1,5 +1,5 @@
 import React from "react";
-import Gentii from "../portfolio/Gentii.jpg"
+import Gentriti from "../portfolio/Gentriti.jpg"
 import { HiArrowRight } from "react-icons/hi";
 import { Link } from "react-scroll";
 
@@ -24,14 +24,14 @@ const Home = () => {
         
         <div className="hidden sm:w-1/2 sm:pl-8 justify-center sm:flex">
           <div className="max-w-xs sm:max-w-none">
-            <img src={Gentii} alt="my profile" className="rounded-lg mx-auto mb-2 w-80 sm:w-96" />
+            <img src={Gentriti} alt="my profile" className="rounded-lg mx-auto mb-2 w-80 sm:w-96" />
           </div>
         </div>
 
         
         <div className="sm:hidden w-full flex justify-center">
           <div className="max-w-xs sm:max-w-none">
-            <img src={Gentii} alt="my profile" className="rounded-lg mx-auto mb-2 w-48" style={{ marginTop: '1rem' }} />
+            <img src={Gentriti} alt="my profile" className="rounded-lg mx-auto mb-2 w-48" style={{ marginTop: '1rem' }} />
           </div>
         </div>
       </div>

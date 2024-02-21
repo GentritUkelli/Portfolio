@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.6c476570.css",
-    "main.js": "/static/js/main.80d4d1dd.js",
-    "static/media/Gentii.jpg": "/static/media/Gentii.0d617815f865297a2e98.jpg",
+    "main.js": "/static/js/main.2fadeec1.js",
     "static/media/WebManagementApp.png": "/static/media/WebManagementApp.2529c259e7a0b6f9d54c.png",
     "static/media/WorkForcePro.png": "/static/media/WorkForcePro.14878010777c1027c4c9.png",
     "static/media/Restaurantista.png": "/static/media/Restaurantista.acbea7dbf0e24bf55280.png",
     "static/media/ClassiqueCuisine.png": "/static/media/ClassiqueCuisine.2f774a123427f63f0bc7.png",
     "static/media/VehicleShop.png": "/static/media/VehicleShop.f7d081c9496d1c087d45.png",
+    "static/media/Gentriti.jpg": "/static/media/Gentriti.57469e43ff1e07e36ad0.jpg",
     "static/media/JavaLogo.png": "/static/media/JavaLogo.c5d3184f4fdf081c265c.png",
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
@@ -22,10 +22,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.6c476570.css.map": "/static/css/main.6c476570.css.map",
-    "main.80d4d1dd.js.map": "/static/js/main.80d4d1dd.js.map"
+    "main.2fadeec1.js.map": "/static/js/main.2fadeec1.js.map"
   },
   "entrypoints": [
     "static/css/main.6c476570.css",
-    "static/js/main.80d4d1dd.js"
+    "static/js/main.2fadeec1.js"
   ]
 }
